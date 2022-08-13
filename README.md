@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:35%20PM%20UTC%202022-orange.svg)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:40%20PM%20UTC%202022-orange.svg)
 
 # **blocklist-ipsets**
 
@@ -49,6 +49,10 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 - blocklist
 - exploits
 - linux
+
+### Repo stats
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=orange&logo=github&style=flat-square)
 
 <p align="center">
 <br/>
