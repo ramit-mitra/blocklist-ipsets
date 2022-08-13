@@ -1,5 +1,6 @@
 # blocklist-ipsets
-An IP list of bad actors exploiting public infra like website, ssh endpoints, etc.
+An IP list of `bad actors` trying to exploit/abuse public infrastructure (like servers, websites, ssh endpoints, etc).   
+`Published in public interest`.
 
 ### Features
 - Generated from active exploits attempted on my servers
@@ -10,6 +11,7 @@ An IP list of bad actors exploiting public infra like website, ssh endpoints, et
 - Publish a consolidated list of active abusive IP address
 - These IPs are being used to attack public servers using known sshd and other exploits
 - This is a list containing IP addresses that should never be allowed to access your server/web applications (IMO)
+- IP address blocking has become a common practice for webmasters who want to prevent their sites from being accessed by malicious visitors. This is especially useful for websites that offer services such as ecommerce, dating, or social networking.
 
 ### Use cases
 - Improve your security by blocking all access from these IP adresses to your infrastructure
@@ -28,4 +30,10 @@ curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenI
 - Provided for personal and commercial use
 
 ### Contribution
-Please share your feedback and/or feature requess by opening an issue. Thankyou. 
+Please share your feedback and/or feature requess by opening an issue. Thankyou.
+
+### Tags
+- security
+- blocklist
+- exploits
+- linux
