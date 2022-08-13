@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:25%20PM%20UTC%202022-<COLOR>.svg)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:30%20PM%20UTC%202022-<COLOR>.svg)
 
 # **blocklist-ipsets**
 
