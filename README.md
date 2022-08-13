@@ -42,6 +42,6 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 <p align="center">
 <br/>
 <hr />
-<img width="460" height="300" src="https://media.giphy.com/media/ToMjGpITf4X6vhVtkyI/giphy.gif">
+<img width="460" height="300" src="https://media.giphy.com/media/EOIHxXCGiPPIT2Xl9t/giphy.gif">
 <hr />
 </p>
