@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:45%20PM%20UTC%202022-orange.svg)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:50%20PM%20UTC%202022-orange.svg)
 
 # **blocklist-ipsets**
 
@@ -52,7 +52,8 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 
 ### Repo stats
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=orange&logo=github&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=orange&logo=github&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 <p align="center">
 <br/>
