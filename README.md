@@ -37,3 +37,10 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 - blocklist
 - exploits
 - linux
+
+<p align="center">
+<br/>
+<hr />
+<img width="460" height="300" src="https://media.giphy.com/media/ToMjGpITf4X6vhVtkyI/giphy.gif">
+<hr />
+</p>
