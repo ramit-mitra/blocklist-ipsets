@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:16%20PM%20UTC%202022-<COLOR>.svg)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:17%20PM%20UTC%202022-<COLOR>.svg)
 
 # blocklist-ipsets
 An IP list of `bad actors` trying to exploit/abuse public infrastructure (like servers, websites, ssh endpoints, etc).   
