@@ -1,3 +1,5 @@
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Aug%2013%2008:16%20PM%20UTC%202022-<COLOR>.svg)
+
 # blocklist-ipsets
 An IP list of `bad actors` trying to exploit/abuse public infrastructure (like servers, websites, ssh endpoints, etc).   
 `Published in public interest`.
@@ -45,3 +47,12 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 <img src="https://media.giphy.com/media/EOIHxXCGiPPIT2Xl9t/giphy.gif">
 <hr />
 </p>
+
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+
+![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
+
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
