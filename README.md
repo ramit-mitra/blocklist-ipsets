@@ -28,6 +28,7 @@ curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenI
 ### Disclaimer
 - This data is generated from exploits attemped on my servers
 - Provided for personal and commercial use
+- No warranty and/or liability
 
 ### Contribution
 Please share your feedback and/or feature requess by opening an issue. Thankyou.
