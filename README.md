@@ -1,4 +1,5 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sun%20Aug%2014%2001:40%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sun%20Aug%2014%2001:55%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 # **blocklist-ipsets**
 
@@ -45,15 +46,16 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 
 ### Tags
 
+- automation
 - security
 - blocklist
 - exploits
 - linux
 
-### Repo stats
+<!-- ### Repo stats
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=orange&logo=github&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge) -->
 
 <p align="center">
 <br/>
