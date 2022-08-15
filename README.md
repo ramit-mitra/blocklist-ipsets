@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Mon%20Aug%2015%2003:45%20AM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Mon%20Aug%2015%2004:35%20AM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 # **blocklist-ipsets**
