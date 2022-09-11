@@ -1,16 +1,15 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sun%20Sep%2011%2002:40%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sun%20Sep%2011%2003:30%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 ---
 
 # **blocklist-ipsets**
 
-An IP list of `bad actors` trying to exploit/abuse public infrastructure (like servers, websites, ssh endpoints, etc).   
-`Published in public interest`.
+An IP list of `bad actors` trying to exploit/abuse public infrastructure (like servers, websites, ssh endpoints, etc). `Published in public interest`.
 
 ### Features
 
-- Generated from active exploits attempted on my servers (`5281` detected IPs)
+- Generated from active exploits attempted on my servers (`5282` detected IPs)
 - Automated updates
 - Opensource
 
@@ -30,7 +29,7 @@ An IP list of `bad actors` trying to exploit/abuse public infrastructure (like s
 
 - `rottenIPs.json` - Consolidated list of abusive IP addresses (as JSON file)
 
-### Usage
+### Example use
 
 ```
 curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenIPs.json | jq
@@ -44,7 +43,7 @@ curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenI
 
 ### Contribution
 
-Please share your feedback and/or feature requess by opening an issue. Thankyou.
+Please share your feedback and/or feature request by opening an issue. Thankyou.
 
 ### Tags
 
@@ -55,9 +54,10 @@ Please share your feedback and/or feature requess by opening an issue. Thankyou.
 - linux
 
 <p align="center">
-    <br/>
+    <br />
     <hr />
-    <img src="https://media.giphy.com/media/EOIHxXCGiPPIT2Xl9t/giphy.gif">
+    <img alt="funny illustrative gif" src="https://media.giphy.com/media/fe4dDMD2cAU5RfEaCU/giphy.gif">
     <hr />
 </p>
+
 
