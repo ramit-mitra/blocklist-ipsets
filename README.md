@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Thu%20Dec%2022%2003:00%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Thu%20Dec%2022%2004:00%20PM%20UTC%202022-orange.svg?style=for-the-badge&logo=git)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 ---
@@ -9,7 +9,7 @@ An IP list of `bad actors` trying to exploit/abuse public infrastructure (like s
 
 ### Features
 
-- Generated from active exploits attempted on my servers (`10518` detected IPs)
+- Generated from active exploits attempted on my servers (`10519` detected IPs)
 - Automated updates
 - Opensource
 
@@ -29,11 +29,22 @@ An IP list of `bad actors` trying to exploit/abuse public infrastructure (like s
 
 - `rottenIPs.json` - Consolidated list of abusive IP addresses (as JSON file)
 
-### Example use
+### Usage example
 
-```
-curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenIPs.json | jq
-```
+- Ban IPs from this list using UFW  
+    - Gist - https://gist.github.com/ramit-mitra/f72b16b34099f85b3423bd32f63930c3
+    - Use as: `curl -s  https://gist.githubusercontent.com/ramit-mitra/f72b16b34099f85b3423bd32f63930c3/raw/ufw_block_banned_ips.sh | bash`
+
+- Ban IPs from this list using Fail2ban
+    - Gist - https://gist.github.com/ramit-mitra/f5e9c4f9adc4a155ebcce2608bc50f39
+    - Use as: `curl -s  https://gist.githubusercontent.com/ramit-mitra/f5e9c4f9adc4a155ebcce2608bc50f39/raw/block_banned_ips.sh | bash`
+
+- Similar approach can be followed for other firewall/IDS/IPS solutions.  
+
+- View the list of IPs
+    ```
+    curl https://raw.githubusercontent.com/ramit-mitra/blocklist-ipsets/main/rottenIPs.json | jq
+    ```
 
 ### Disclaimer
 
@@ -52,6 +63,9 @@ Please share your feedback and/or feature request by opening an issue. Thankyou.
 - blocklist
 - exploits
 - linux
+- ufw
+- iptables
+- fail2ban
 
 <p align="center">
     <br />
