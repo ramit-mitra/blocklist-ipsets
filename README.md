@@ -1,4 +1,4 @@
-![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Jan%2021%2001:55%20PM%20UTC%202023-orange.svg?style=for-the-badge&logo=git)
+![Last updated](https://img.shields.io/badge/Last%20updated%20at-Sat%20Jan%2021%2002:00%20PM%20UTC%202023-orange.svg?style=for-the-badge&logo=git)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ramit-mitra/blocklist-ipsets?color=green&logo=github&style=for-the-badge)
 
 ---
@@ -9,7 +9,7 @@ An IP list of `bad actors` trying to exploit/abuse public infrastructure (like s
 
 ### Features
 
-- Generated from active exploits attempted on my servers (`13928` detected IPs)
+- Generated from active exploits attempted on my servers (`13933` detected IPs)
 - Automated updates
 - Opensource
 
