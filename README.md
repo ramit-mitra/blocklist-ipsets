@@ -9,7 +9,7 @@ An IP list of `bad actors` trying to exploit/abuse public infrastructure (like s
 
 ### Features
 
-- Generated from active exploits attempted on my servers (`4260` detected IPs)
+- Generated from active exploits attempted on my servers (`4262` detected IPs)
 - Automated updates and reporting to [AbuseIPDB](https://www.abuseipdb.com/user/129614), a global threat intelligence database
 - Opensource
 
